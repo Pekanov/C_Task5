@@ -1,0 +1,15 @@
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\bin\Debug\net6.0\C_Task5_Number20.exe
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\bin\Debug\net6.0\C_Task5_Number20.deps.json
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\bin\Debug\net6.0\C_Task5_Number20.runtimeconfig.json
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\bin\Debug\net6.0\C_Task5_Number20.dll
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\bin\Debug\net6.0\C_Task5_Number20.pdb
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\obj\Debug\net6.0\C_Task5_Number20.csproj.AssemblyReference.cache
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\obj\Debug\net6.0\C_Task5_Number20.GeneratedMSBuildEditorConfig.editorconfig
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\obj\Debug\net6.0\C_Task5_Number20.AssemblyInfoInputs.cache
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\obj\Debug\net6.0\C_Task5_Number20.AssemblyInfo.cs
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\obj\Debug\net6.0\C_Task5_Number20.csproj.CoreCompileInputs.cache
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\obj\Debug\net6.0\C_Task5_Number20.dll
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\obj\Debug\net6.0\refint\C_Task5_Number20.dll
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\obj\Debug\net6.0\C_Task5_Number20.pdb
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\obj\Debug\net6.0\C_Task5_Number20.genruntimeconfig.cache
+D:\Projects\Visual Studio\C_Task5_Number20\C_Task5_Number20\obj\Debug\net6.0\ref\C_Task5_Number20.dll
